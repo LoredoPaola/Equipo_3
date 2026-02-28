@@ -19,10 +19,10 @@ generos = [
     "Acción",
     "Ciencia Ficción",
     "Drama",
-    "Crimen",
+    "Terror",
     "Aventura",
     "Suspenso",
-    "Comedia"
+    "Comedia",
 ]
 
 peliculas = []
