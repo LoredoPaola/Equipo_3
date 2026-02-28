@@ -1,0 +1,601 @@
+id,titulo,anio,genero,calificacion
+1,Back to the Future,1992,Suspenso,1.7
+2,Back to the Future,2019,Acción,2.3
+3,Jurassic Park,1991,Crimen,1.3
+4,The Matrix,2023,Ciencia Ficción,2.1
+5,Back to the Future,2017,Comedia,3.1
+6,Interstellar,1999,Drama,2.9
+7,Back to the Future,2015,Drama,1.5
+8,Interstellar,1996,Aventura,4.0
+9,The Dark Knight,2019,Suspenso,3.1
+10,Forrest Gump,2013,Drama,4.3
+11,Interstellar,2009,Crimen,2.5
+12,The Godfather,1992,Comedia,3.2
+13,The Dark Knight,2002,Suspenso,2.7
+14,Gladiator,2024,Crimen,3.9
+15,Back to the Future,2013,Ciencia Ficción,3.5
+16,Interstellar,2003,Crimen,3.0
+17,The Godfather,2015,Ciencia Ficción,1.4
+18,Forrest Gump,2018,Ciencia Ficción,4.0
+19,Gladiator,2010,Drama,3.2
+20,The Godfather,2023,Comedia,1.3
+21,Forrest Gump,2000,Drama,2.4
+22,Interstellar,2007,Aventura,3.5
+23,Gladiator,1992,Drama,2.2
+24,The Matrix,2004,Crimen,2.2
+25,Interstellar,2004,Ciencia Ficción,2.6
+26,Jurassic Park,1992,Drama,4.9
+27,Forrest Gump,2022,Drama,3.7
+28,Jurassic Park,1997,Ciencia Ficción,1.8
+29,Inception,2024,Crimen,2.0
+30,The Godfather,2016,Ciencia Ficción,3.0
+31,Inception,2000,Acción,2.4
+32,Inception,2005,Comedia,1.2
+33,Back to the Future,2009,Comedia,2.4
+34,Jurassic Park,2010,Drama,4.9
+35,The Godfather,2009,Drama,3.5
+36,The Matrix,2018,Drama,1.9
+37,The Godfather,2022,Drama,1.1
+38,Gladiator,1999,Comedia,2.4
+39,Back to the Future,2004,Drama,4.3
+40,Jurassic Park,2013,Acción,4.5
+41,The Godfather,1994,Drama,2.7
+42,The Dark Knight,2022,Comedia,2.0
+43,Gladiator,2022,Drama,1.6
+44,Forrest Gump,2023,Suspenso,2.6
+45,Back to the Future,1992,Drama,2.5
+46,Forrest Gump,1994,Crimen,4.6
+47,Pulp Fiction,2010,Aventura,1.7
+48,The Dark Knight,2013,Ciencia Ficción,2.6
+49,Gladiator,2001,Acción,3.3
+50,Back to the Future,2016,Drama,4.0
+51,The Godfather,2010,Suspenso,4.2
+52,Gladiator,1998,Aventura,3.5
+53,Forrest Gump,1997,Ciencia Ficción,2.2
+54,Gladiator,2024,Aventura,2.9
+55,Pulp Fiction,2019,Ciencia Ficción,2.8
+56,Jurassic Park,2020,Comedia,2.2
+57,Jurassic Park,2010,Crimen,2.2
+58,The Dark Knight,2003,Ciencia Ficción,4.6
+59,Inception,1999,Crimen,1.7
+60,Pulp Fiction,2001,Ciencia Ficción,2.7
+61,Jurassic Park,1998,Comedia,3.7
+62,Pulp Fiction,2005,Crimen,1.8
+63,Interstellar,2001,Crimen,4.9
+64,The Dark Knight,2013,Drama,4.5
+65,Jurassic Park,2002,Acción,1.6
+66,The Matrix,2020,Ciencia Ficción,4.1
+67,The Godfather,2001,Crimen,3.5
+68,Back to the Future,2017,Acción,1.7
+69,Pulp Fiction,1996,Crimen,3.1
+70,Pulp Fiction,2016,Aventura,3.8
+71,Inception,2025,Drama,4.4
+72,Gladiator,2004,Comedia,2.1
+73,Jurassic Park,1996,Crimen,3.4
+74,Pulp Fiction,2003,Suspenso,2.1
+75,The Dark Knight,2008,Suspenso,4.1
+76,Pulp Fiction,2019,Aventura,3.0
+77,The Matrix,1999,Aventura,2.1
+78,The Godfather,2024,Crimen,4.5
+79,Pulp Fiction,1990,Comedia,3.8
+80,Jurassic Park,2013,Suspenso,1.4
+81,The Dark Knight,2001,Suspenso,2.0
+82,Pulp Fiction,2007,Comedia,1.3
+83,Gladiator,2009,Comedia,3.7
+84,Interstellar,2017,Comedia,3.0
+85,The Matrix,1993,Comedia,2.6
+86,Interstellar,2000,Suspenso,1.6
+87,The Godfather,2006,Drama,5.0
+88,The Matrix,1997,Aventura,1.2
+89,Inception,2024,Acción,3.3
+90,The Dark Knight,1993,Suspenso,1.3
+91,Pulp Fiction,2021,Comedia,2.4
+92,The Matrix,2017,Crimen,3.8
+93,Forrest Gump,1991,Comedia,3.5
+94,Back to the Future,2009,Acción,2.8
+95,Pulp Fiction,2014,Ciencia Ficción,1.4
+96,Inception,1993,Acción,1.1
+97,Interstellar,1995,Suspenso,3.7
+98,The Matrix,2020,Aventura,4.3
+99,Pulp Fiction,2015,Crimen,2.5
+100,Forrest Gump,2014,Acción,4.8
+101,Jurassic Park,2012,Comedia,4.7
+102,The Matrix,2020,Suspenso,4.5
+103,The Godfather,2010,Acción,1.5
+104,Gladiator,2001,Comedia,2.3
+105,The Dark Knight,2007,Ciencia Ficción,3.5
+106,Back to the Future,2013,Acción,4.4
+107,Interstellar,2007,Crimen,2.4
+108,The Godfather,2002,Comedia,3.3
+109,The Matrix,1990,Ciencia Ficción,1.9
+110,Inception,2023,Drama,3.2
+111,The Dark Knight,2011,Drama,4.0
+112,Inception,2015,Suspenso,2.6
+113,The Matrix,2018,Ciencia Ficción,4.9
+114,Forrest Gump,1995,Comedia,1.4
+115,Forrest Gump,2024,Aventura,4.6
+116,The Godfather,2012,Comedia,3.4
+117,The Matrix,1991,Suspenso,2.7
+118,Inception,2018,Ciencia Ficción,4.2
+119,Back to the Future,2011,Comedia,3.7
+120,Pulp Fiction,2001,Aventura,4.7
+121,Inception,1998,Ciencia Ficción,1.3
+122,Back to the Future,2013,Drama,2.6
+123,Gladiator,2015,Aventura,4.4
+124,Interstellar,2017,Ciencia Ficción,2.9
+125,Pulp Fiction,1991,Acción,2.1
+126,Gladiator,2006,Comedia,2.3
+127,Gladiator,2005,Acción,4.5
+128,Inception,2009,Crimen,3.6
+129,Jurassic Park,2023,Crimen,3.6
+130,The Matrix,2013,Ciencia Ficción,2.9
+131,The Godfather,2020,Comedia,2.6
+132,The Godfather,2001,Comedia,1.8
+133,Gladiator,2005,Suspenso,3.8
+134,Interstellar,2001,Comedia,2.9
+135,Inception,2021,Ciencia Ficción,1.4
+136,The Dark Knight,2000,Acción,4.8
+137,Jurassic Park,2009,Drama,1.3
+138,Forrest Gump,2016,Acción,1.1
+139,Interstellar,1999,Suspenso,3.9
+140,Interstellar,2007,Ciencia Ficción,4.3
+141,Jurassic Park,1999,Drama,3.9
+142,The Godfather,2020,Crimen,3.9
+143,Jurassic Park,2022,Aventura,1.9
+144,The Dark Knight,2015,Drama,2.1
+145,Forrest Gump,2023,Aventura,3.5
+146,The Dark Knight,2014,Crimen,3.0
+147,Interstellar,2020,Acción,3.5
+148,Pulp Fiction,2023,Ciencia Ficción,2.0
+149,Inception,2022,Crimen,4.1
+150,Inception,2020,Ciencia Ficción,1.8
+151,Back to the Future,2009,Comedia,1.4
+152,Back to the Future,1993,Crimen,3.3
+153,Pulp Fiction,2009,Drama,2.8
+154,The Godfather,2024,Drama,1.3
+155,Pulp Fiction,2017,Acción,1.7
+156,Pulp Fiction,2023,Ciencia Ficción,4.3
+157,The Godfather,1992,Acción,4.1
+158,Pulp Fiction,1998,Acción,4.9
+159,Back to the Future,2013,Drama,4.1
+160,The Godfather,2004,Suspenso,3.1
+161,Forrest Gump,2006,Drama,4.9
+162,The Godfather,1995,Drama,4.2
+163,Inception,2003,Comedia,1.3
+164,Gladiator,1992,Suspenso,2.0
+165,Back to the Future,2020,Ciencia Ficción,1.9
+166,Jurassic Park,2018,Suspenso,1.0
+167,Interstellar,2002,Suspenso,4.7
+168,The Matrix,1998,Drama,4.3
+169,Interstellar,2004,Drama,3.2
+170,Forrest Gump,2013,Comedia,3.5
+171,Interstellar,2006,Aventura,3.5
+172,The Dark Knight,2007,Drama,4.8
+173,The Godfather,2023,Ciencia Ficción,1.8
+174,The Dark Knight,2021,Comedia,3.7
+175,Interstellar,2015,Ciencia Ficción,2.6
+176,The Matrix,2003,Drama,3.0
+177,Pulp Fiction,2005,Comedia,1.7
+178,Back to the Future,1995,Comedia,3.0
+179,Forrest Gump,2003,Acción,2.5
+180,Forrest Gump,2007,Suspenso,4.5
+181,Gladiator,2010,Crimen,1.8
+182,Forrest Gump,2011,Drama,2.7
+183,Jurassic Park,2009,Crimen,3.8
+184,Jurassic Park,2025,Ciencia Ficción,4.9
+185,The Matrix,2004,Ciencia Ficción,2.7
+186,The Godfather,1995,Suspenso,4.3
+187,The Matrix,2000,Ciencia Ficción,2.9
+188,Gladiator,1993,Drama,2.4
+189,Back to the Future,2024,Suspenso,2.2
+190,Back to the Future,1993,Drama,4.5
+191,Jurassic Park,2012,Aventura,1.1
+192,The Godfather,2023,Crimen,4.1
+193,Back to the Future,2015,Comedia,2.4
+194,Forrest Gump,2010,Ciencia Ficción,2.4
+195,Forrest Gump,1994,Acción,3.2
+196,Inception,2004,Acción,2.1
+197,Inception,2003,Comedia,2.4
+198,Forrest Gump,2001,Comedia,4.9
+199,Forrest Gump,1998,Drama,1.2
+200,Pulp Fiction,2011,Drama,4.1
+201,The Matrix,1998,Drama,1.0
+202,Back to the Future,2005,Acción,4.9
+203,The Dark Knight,2018,Ciencia Ficción,3.0
+204,Interstellar,2002,Acción,2.2
+205,Forrest Gump,2005,Comedia,2.0
+206,The Matrix,1998,Drama,3.0
+207,The Godfather,1999,Crimen,2.0
+208,Forrest Gump,1997,Ciencia Ficción,4.5
+209,The Matrix,1990,Aventura,1.7
+210,Pulp Fiction,2020,Crimen,2.9
+211,Pulp Fiction,1998,Crimen,3.3
+212,Pulp Fiction,2002,Acción,1.0
+213,Interstellar,2002,Suspenso,3.4
+214,Jurassic Park,2010,Ciencia Ficción,3.3
+215,The Godfather,1997,Drama,4.7
+216,Pulp Fiction,2013,Suspenso,4.0
+217,Gladiator,2016,Crimen,4.8
+218,Forrest Gump,1990,Suspenso,4.4
+219,Interstellar,1999,Suspenso,2.7
+220,Pulp Fiction,1992,Comedia,5.0
+221,Jurassic Park,2006,Drama,2.2
+222,Gladiator,2015,Comedia,4.0
+223,Gladiator,2020,Crimen,2.9
+224,Forrest Gump,2006,Aventura,2.1
+225,Back to the Future,1997,Aventura,2.0
+226,Inception,2020,Crimen,4.7
+227,Pulp Fiction,2016,Comedia,4.3
+228,Forrest Gump,1999,Drama,4.0
+229,Forrest Gump,1998,Suspenso,5.0
+230,Inception,1996,Crimen,3.5
+231,Pulp Fiction,1991,Suspenso,2.8
+232,The Godfather,2016,Ciencia Ficción,3.3
+233,The Godfather,2002,Ciencia Ficción,1.8
+234,Forrest Gump,2004,Aventura,5.0
+235,Jurassic Park,2001,Acción,3.3
+236,Pulp Fiction,2011,Drama,4.7
+237,Interstellar,2025,Crimen,2.0
+238,Interstellar,2018,Drama,4.3
+239,The Matrix,2003,Ciencia Ficción,3.1
+240,The Godfather,2011,Comedia,2.3
+241,The Matrix,2021,Suspenso,1.5
+242,Jurassic Park,2013,Suspenso,1.5
+243,Forrest Gump,1993,Suspenso,2.1
+244,Interstellar,2014,Comedia,2.1
+245,The Dark Knight,2000,Suspenso,3.4
+246,The Dark Knight,1990,Drama,4.5
+247,Jurassic Park,1996,Aventura,1.8
+248,The Dark Knight,1999,Suspenso,2.2
+249,The Matrix,2012,Crimen,2.0
+250,The Matrix,1995,Suspenso,3.9
+251,Gladiator,2013,Suspenso,2.7
+252,Jurassic Park,1993,Ciencia Ficción,4.7
+253,Interstellar,2004,Suspenso,3.3
+254,The Dark Knight,2021,Suspenso,1.5
+255,Gladiator,2015,Ciencia Ficción,2.6
+256,Gladiator,2020,Aventura,2.2
+257,The Matrix,2018,Crimen,1.9
+258,Pulp Fiction,2004,Aventura,2.6
+259,Pulp Fiction,2021,Ciencia Ficción,1.9
+260,Forrest Gump,2018,Acción,4.7
+261,Inception,2014,Ciencia Ficción,2.4
+262,Back to the Future,1993,Aventura,3.3
+263,Forrest Gump,2018,Suspenso,2.4
+264,Forrest Gump,1991,Acción,2.6
+265,Jurassic Park,2018,Crimen,1.8
+266,Interstellar,1991,Drama,2.9
+267,The Matrix,2002,Aventura,4.3
+268,Pulp Fiction,2021,Ciencia Ficción,3.8
+269,Gladiator,1998,Ciencia Ficción,2.5
+270,The Godfather,1990,Ciencia Ficción,3.6
+271,The Dark Knight,2019,Ciencia Ficción,4.1
+272,Interstellar,2002,Comedia,4.1
+273,The Dark Knight,2019,Crimen,1.9
+274,Gladiator,2021,Comedia,1.6
+275,Back to the Future,1993,Drama,1.7
+276,The Matrix,2017,Comedia,4.9
+277,The Dark Knight,2023,Acción,3.2
+278,The Matrix,1996,Comedia,2.0
+279,The Matrix,2022,Crimen,2.6
+280,Inception,2004,Suspenso,4.5
+281,Interstellar,2001,Drama,2.8
+282,Gladiator,1996,Aventura,3.0
+283,Pulp Fiction,2003,Comedia,3.0
+284,The Godfather,2014,Drama,2.7
+285,Inception,2023,Drama,3.6
+286,Forrest Gump,1994,Ciencia Ficción,2.4
+287,The Matrix,2024,Comedia,1.8
+288,Back to the Future,2012,Suspenso,5.0
+289,Forrest Gump,1995,Acción,2.0
+290,Gladiator,1994,Aventura,2.9
+291,Interstellar,1994,Ciencia Ficción,3.2
+292,Pulp Fiction,2013,Comedia,4.9
+293,The Godfather,2022,Crimen,2.7
+294,Jurassic Park,1997,Suspenso,4.9
+295,Jurassic Park,2004,Crimen,4.6
+296,Back to the Future,2024,Suspenso,4.0
+297,Interstellar,2013,Ciencia Ficción,2.9
+298,Interstellar,2025,Aventura,2.7
+299,The Matrix,2001,Ciencia Ficción,3.3
+300,Jurassic Park,2022,Crimen,1.5
+301,Pulp Fiction,2008,Aventura,1.3
+302,Gladiator,2022,Crimen,3.9
+303,Pulp Fiction,1995,Ciencia Ficción,1.2
+304,The Matrix,2021,Ciencia Ficción,1.6
+305,The Dark Knight,1999,Suspenso,5.0
+306,Inception,2013,Aventura,2.6
+307,Forrest Gump,1996,Suspenso,3.6
+308,Interstellar,1995,Ciencia Ficción,2.2
+309,Pulp Fiction,2025,Suspenso,1.1
+310,Jurassic Park,1992,Acción,1.4
+311,The Godfather,2019,Ciencia Ficción,1.6
+312,The Matrix,2004,Ciencia Ficción,1.9
+313,Pulp Fiction,2004,Aventura,4.3
+314,The Matrix,1999,Acción,4.9
+315,Gladiator,1994,Ciencia Ficción,3.7
+316,Gladiator,2003,Crimen,3.0
+317,Forrest Gump,2018,Acción,3.9
+318,The Godfather,1992,Drama,5.0
+319,Pulp Fiction,1991,Aventura,4.0
+320,Jurassic Park,2006,Aventura,3.8
+321,Jurassic Park,2022,Crimen,4.5
+322,The Godfather,1990,Comedia,1.6
+323,Back to the Future,2020,Aventura,2.0
+324,Gladiator,2021,Drama,1.2
+325,The Dark Knight,1998,Acción,1.1
+326,The Godfather,1999,Aventura,4.7
+327,The Godfather,1999,Aventura,1.8
+328,Gladiator,2020,Aventura,3.6
+329,Inception,2021,Ciencia Ficción,5.0
+330,Gladiator,1994,Crimen,3.8
+331,Gladiator,2003,Suspenso,2.1
+332,Pulp Fiction,1992,Drama,2.0
+333,Back to the Future,2018,Crimen,3.9
+334,Interstellar,2023,Crimen,3.3
+335,Gladiator,2014,Drama,2.1
+336,The Godfather,2013,Crimen,3.3
+337,The Godfather,2020,Acción,4.3
+338,The Dark Knight,2007,Suspenso,3.1
+339,Inception,2021,Suspenso,2.3
+340,The Dark Knight,2015,Ciencia Ficción,2.5
+341,The Godfather,2014,Drama,1.8
+342,Back to the Future,2014,Aventura,4.9
+343,Jurassic Park,2013,Acción,3.0
+344,The Matrix,1996,Acción,2.5
+345,Interstellar,2025,Acción,2.9
+346,The Dark Knight,1997,Suspenso,2.0
+347,The Dark Knight,1992,Suspenso,2.2
+348,Interstellar,2019,Acción,2.6
+349,The Matrix,1998,Drama,1.3
+350,Jurassic Park,2009,Acción,3.1
+351,Gladiator,2018,Drama,4.3
+352,The Godfather,2020,Acción,2.9
+353,Back to the Future,2006,Ciencia Ficción,2.0
+354,Jurassic Park,1995,Crimen,2.9
+355,Inception,2004,Drama,4.3
+356,The Godfather,1990,Drama,1.4
+357,Pulp Fiction,2018,Crimen,4.6
+358,The Godfather,2005,Aventura,3.6
+359,Forrest Gump,2011,Acción,3.9
+360,Interstellar,1993,Aventura,2.4
+361,Inception,2014,Acción,1.7
+362,Interstellar,2009,Crimen,4.0
+363,The Matrix,2014,Suspenso,3.6
+364,Gladiator,1999,Drama,4.4
+365,Interstellar,2000,Acción,1.2
+366,Forrest Gump,2020,Aventura,4.2
+367,The Dark Knight,2016,Aventura,1.4
+368,Gladiator,2007,Aventura,3.9
+369,The Matrix,2002,Acción,3.2
+370,The Dark Knight,1991,Drama,2.7
+371,The Matrix,1991,Acción,2.6
+372,The Godfather,2008,Suspenso,4.3
+373,Gladiator,2023,Drama,3.7
+374,The Matrix,2005,Drama,1.3
+375,The Dark Knight,2015,Crimen,2.2
+376,Inception,2016,Drama,4.6
+377,Inception,2010,Aventura,3.2
+378,Inception,1999,Acción,3.9
+379,Gladiator,2006,Acción,2.9
+380,Forrest Gump,2022,Aventura,1.8
+381,Interstellar,2007,Crimen,1.9
+382,Interstellar,2014,Comedia,2.5
+383,Interstellar,2016,Aventura,1.6
+384,Gladiator,2014,Suspenso,1.4
+385,Forrest Gump,2018,Acción,4.5
+386,The Dark Knight,2001,Suspenso,1.9
+387,Interstellar,2006,Acción,3.0
+388,Inception,1994,Aventura,3.3
+389,Gladiator,1995,Crimen,1.8
+390,The Godfather,1996,Ciencia Ficción,1.7
+391,The Matrix,2007,Suspenso,2.4
+392,Interstellar,1995,Ciencia Ficción,4.7
+393,The Dark Knight,2017,Ciencia Ficción,1.1
+394,Inception,2000,Drama,1.6
+395,Inception,1991,Acción,3.0
+396,Gladiator,2018,Crimen,4.4
+397,Pulp Fiction,2018,Suspenso,2.0
+398,The Dark Knight,2007,Aventura,4.2
+399,The Godfather,1992,Drama,4.9
+400,Gladiator,2002,Crimen,3.4
+401,Pulp Fiction,2014,Comedia,1.8
+402,Pulp Fiction,1996,Acción,1.7
+403,Gladiator,1999,Acción,1.2
+404,Jurassic Park,1992,Acción,4.7
+405,Inception,2010,Suspenso,1.4
+406,Forrest Gump,2017,Drama,2.6
+407,The Godfather,2008,Drama,2.6
+408,The Dark Knight,2016,Ciencia Ficción,4.3
+409,Gladiator,2017,Acción,2.8
+410,Inception,1998,Comedia,1.3
+411,Interstellar,2000,Ciencia Ficción,1.9
+412,Pulp Fiction,2010,Acción,1.5
+413,Jurassic Park,2020,Aventura,1.7
+414,Interstellar,1999,Acción,3.1
+415,The Matrix,2004,Acción,1.9
+416,Forrest Gump,1998,Crimen,3.5
+417,Interstellar,1999,Ciencia Ficción,3.6
+418,The Matrix,2010,Suspenso,2.8
+419,The Matrix,2017,Crimen,3.5
+420,The Matrix,2014,Suspenso,2.4
+421,The Matrix,2003,Ciencia Ficción,4.1
+422,Gladiator,1993,Comedia,3.8
+423,Forrest Gump,2014,Aventura,3.8
+424,Back to the Future,2019,Drama,3.8
+425,Pulp Fiction,2024,Acción,1.6
+426,Gladiator,1996,Acción,3.8
+427,Inception,2024,Ciencia Ficción,2.2
+428,Interstellar,2019,Drama,4.8
+429,Back to the Future,2004,Drama,3.8
+430,Jurassic Park,2017,Drama,3.7
+431,The Dark Knight,2006,Acción,2.8
+432,The Matrix,2011,Suspenso,4.4
+433,Jurassic Park,2000,Drama,1.2
+434,Gladiator,2015,Aventura,1.8
+435,The Matrix,2020,Crimen,1.3
+436,Inception,2014,Ciencia Ficción,3.5
+437,Inception,2018,Acción,1.4
+438,Inception,2023,Crimen,3.3
+439,The Godfather,1991,Aventura,3.9
+440,Pulp Fiction,2010,Crimen,4.1
+441,Forrest Gump,2022,Comedia,4.9
+442,The Godfather,2015,Ciencia Ficción,2.7
+443,Jurassic Park,2010,Ciencia Ficción,1.5
+444,The Matrix,1995,Aventura,3.5
+445,Pulp Fiction,2005,Crimen,1.7
+446,Forrest Gump,2018,Acción,3.4
+447,The Dark Knight,2014,Crimen,3.3
+448,The Dark Knight,1994,Comedia,1.6
+449,Inception,1994,Acción,4.2
+450,Jurassic Park,2025,Ciencia Ficción,4.5
+451,Inception,2018,Crimen,4.5
+452,The Godfather,1991,Crimen,1.1
+453,Forrest Gump,2010,Drama,3.1
+454,Forrest Gump,2019,Comedia,3.2
+455,Gladiator,2012,Acción,4.9
+456,Jurassic Park,2006,Crimen,3.1
+457,The Dark Knight,2025,Ciencia Ficción,3.3
+458,Gladiator,2005,Crimen,3.0
+459,Forrest Gump,2007,Drama,3.0
+460,The Matrix,2003,Comedia,3.3
+461,Gladiator,2014,Aventura,3.2
+462,Jurassic Park,2001,Drama,1.8
+463,Forrest Gump,2012,Suspenso,4.2
+464,The Matrix,2007,Drama,3.3
+465,Inception,2023,Suspenso,3.5
+466,Pulp Fiction,2018,Ciencia Ficción,3.8
+467,Pulp Fiction,2000,Suspenso,3.6
+468,Gladiator,2010,Aventura,2.4
+469,Back to the Future,2010,Acción,2.8
+470,Inception,1994,Aventura,3.1
+471,Back to the Future,1994,Comedia,2.3
+472,The Godfather,2013,Comedia,4.7
+473,Inception,2005,Suspenso,2.7
+474,Jurassic Park,2005,Drama,4.8
+475,Jurassic Park,1996,Comedia,1.9
+476,Inception,2014,Suspenso,4.7
+477,Forrest Gump,2007,Ciencia Ficción,3.7
+478,The Dark Knight,2011,Ciencia Ficción,1.3
+479,Interstellar,2003,Crimen,1.9
+480,Pulp Fiction,2009,Drama,4.2
+481,The Godfather,1996,Suspenso,1.6
+482,Inception,1992,Suspenso,4.0
+483,Back to the Future,1990,Aventura,1.7
+484,Pulp Fiction,2019,Aventura,2.5
+485,Gladiator,1996,Aventura,4.5
+486,Back to the Future,2010,Aventura,3.5
+487,Back to the Future,2010,Suspenso,3.7
+488,Inception,2006,Ciencia Ficción,3.3
+489,Inception,2024,Ciencia Ficción,2.4
+490,The Matrix,1999,Suspenso,4.6
+491,Forrest Gump,2005,Comedia,1.8
+492,Back to the Future,2007,Aventura,4.3
+493,Inception,1999,Acción,2.6
+494,Gladiator,2011,Suspenso,1.7
+495,Forrest Gump,2025,Suspenso,1.8
+496,The Godfather,2016,Aventura,2.7
+497,Jurassic Park,2018,Drama,1.8
+498,Inception,1990,Aventura,1.6
+499,Jurassic Park,2006,Aventura,4.3
+500,Inception,2004,Suspenso,1.3
+501,The Matrix,1991,Suspenso,2.5
+502,Back to the Future,1993,Acción,2.6
+503,The Matrix,2025,Aventura,3.6
+504,The Godfather,2014,Crimen,2.9
+505,Back to the Future,2017,Drama,3.8
+506,The Matrix,2000,Aventura,1.1
+507,The Matrix,1994,Acción,3.4
+508,Gladiator,2023,Drama,1.1
+509,Jurassic Park,1998,Suspenso,2.9
+510,The Godfather,1995,Comedia,2.9
+511,Inception,2019,Suspenso,4.1
+512,The Godfather,1999,Ciencia Ficción,3.5
+513,Pulp Fiction,1995,Suspenso,1.1
+514,Jurassic Park,1990,Comedia,3.0
+515,Inception,2025,Suspenso,3.9
+516,Interstellar,2012,Comedia,4.4
+517,Interstellar,2003,Suspenso,4.2
+518,The Dark Knight,2020,Acción,2.4
+519,Forrest Gump,2006,Drama,2.8
+520,Interstellar,2023,Drama,4.6
+521,Pulp Fiction,2016,Aventura,4.4
+522,Inception,2015,Crimen,1.5
+523,Forrest Gump,1997,Suspenso,3.8
+524,Inception,2013,Suspenso,1.4
+525,Back to the Future,2006,Comedia,5.0
+526,Back to the Future,1993,Suspenso,4.3
+527,Jurassic Park,2008,Acción,4.4
+528,Jurassic Park,2008,Suspenso,2.3
+529,The Godfather,2014,Aventura,1.0
+530,The Matrix,2006,Acción,4.6
+531,The Dark Knight,1995,Suspenso,4.7
+532,Inception,2005,Drama,2.3
+533,Inception,1992,Comedia,4.1
+534,Forrest Gump,1992,Suspenso,4.6
+535,Forrest Gump,2003,Suspenso,3.8
+536,Back to the Future,1991,Drama,4.0
+537,The Godfather,2022,Drama,3.7
+538,Back to the Future,2004,Aventura,3.5
+539,The Godfather,2011,Ciencia Ficción,4.4
+540,The Godfather,2010,Comedia,2.9
+541,Inception,2002,Suspenso,3.8
+542,The Godfather,2001,Aventura,1.1
+543,The Godfather,2023,Comedia,3.9
+544,Back to the Future,2019,Aventura,1.1
+545,The Godfather,1990,Crimen,4.5
+546,Interstellar,2025,Drama,2.4
+547,The Matrix,2004,Aventura,4.8
+548,The Matrix,2012,Aventura,4.4
+549,Jurassic Park,2025,Aventura,3.4
+550,Interstellar,2017,Suspenso,4.5
+551,Interstellar,1994,Comedia,1.1
+552,Forrest Gump,2022,Ciencia Ficción,2.5
+553,Inception,2005,Crimen,1.5
+554,Pulp Fiction,2015,Drama,1.4
+555,Forrest Gump,2021,Comedia,1.1
+556,Gladiator,2022,Drama,1.4
+557,Gladiator,2016,Crimen,3.2
+558,Jurassic Park,2003,Acción,2.4
+559,Jurassic Park,1993,Aventura,4.3
+560,Forrest Gump,2001,Comedia,2.3
+561,Pulp Fiction,2025,Suspenso,1.6
+562,The Matrix,2014,Suspenso,2.7
+563,The Godfather,2010,Aventura,1.2
+564,The Godfather,2019,Acción,2.4
+565,Interstellar,1992,Ciencia Ficción,4.3
+566,Inception,2009,Acción,4.0
+567,Inception,2002,Drama,3.7
+568,Inception,2020,Ciencia Ficción,4.2
+569,Interstellar,1994,Aventura,3.9
+570,Gladiator,2012,Comedia,2.1
+571,Back to the Future,2021,Ciencia Ficción,4.2
+572,The Dark Knight,2015,Acción,1.1
+573,Jurassic Park,1996,Ciencia Ficción,2.8
+574,Interstellar,2005,Aventura,1.1
+575,Forrest Gump,2012,Drama,3.9
+576,Jurassic Park,1997,Comedia,4.2
+577,Pulp Fiction,2017,Aventura,4.8
+578,Forrest Gump,2005,Acción,1.9
+579,The Matrix,1991,Acción,3.8
+580,The Dark Knight,2013,Crimen,2.2
+581,Inception,2014,Drama,1.3
+582,Jurassic Park,1998,Comedia,1.4
+583,Interstellar,2003,Aventura,2.8
+584,Jurassic Park,2000,Suspenso,3.9
+585,Pulp Fiction,2024,Crimen,3.5
+586,Interstellar,2014,Comedia,2.0
+587,Jurassic Park,1999,Suspenso,2.3
+588,Forrest Gump,2001,Crimen,1.3
+589,Back to the Future,2004,Suspenso,1.4
+590,Inception,1990,Aventura,3.5
+591,Inception,2014,Acción,4.0
+592,Gladiator,2013,Aventura,4.0
+593,Pulp Fiction,2017,Ciencia Ficción,1.2
+594,Forrest Gump,2023,Ciencia Ficción,1.8
+595,Forrest Gump,2022,Acción,4.6
+596,Jurassic Park,1992,Suspenso,3.6
+597,Interstellar,2001,Drama,4.4
+598,The Matrix,1994,Drama,3.9
+599,Gladiator,2014,Suspenso,4.8
+600,Interstellar,1996,Drama,4.3
