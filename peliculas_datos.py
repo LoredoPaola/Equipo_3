@@ -1,6 +1,7 @@
-import random
 
+import random
 import pandas as pd
+
 
 titulos = [
     "Inception",
@@ -12,13 +13,13 @@ titulos = [
     "Gladiator",
     "The Godfather",
     "Jurassic Park",
-    "Back to the Future",
+    "Back to the Future"
 ]
 generos = [
     "Acción",
     "Ciencia Ficción",
     "Drama",
-    "Crimen",
+    "Terror",
     "Aventura",
     "Suspenso",
     "Comedia",
@@ -32,7 +33,7 @@ for i in range(1, 601):
         "titulo": random.choice(titulos),
         "anio": random.randint(1990, 2025),
         "genero": random.choice(generos),
-        "calificacion": round(random.uniform(1.0, 5.0), 1),
+        "calificacion": round(random.uniform(1.0, 5.0), 1) 
     }
     peliculas.append(pelicula)
 
