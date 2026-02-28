@@ -1,4 +1,4 @@
-
+#---Paola Loredo - 27/02/26 - Resolucion de confilctos y fucion de los programas  
 import random
 import pandas as pd
 
